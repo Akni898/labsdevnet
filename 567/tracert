@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.22000.1219]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+C:\Users\Акниет>tracert www.netacad.com
+
+Трассировка маршрута к e7792.dsca.akamaiedge.net [2.23.141.205]
+с максимальным числом прыжков 30:
+
+  1     1 ms    <1 мс    <1 мс  wf.brandwifi.kz [192.168.220.1]
+  2     5 ms     2 ms     3 ms  91.185.30.129
+  3     *       25 ms    22 ms  gw-transtelecomkz.retn.net [87.245.230.67]
+  4    21 ms    21 ms    21 ms  ae3-211.rt1.ttc.ast.kz.retn.net [87.245.230.66]
+  5    67 ms    58 ms    64 ms  ae22-2.rt.m9.msk.ru.retn.net [139.45.243.20]
+  6    61 ms   101 ms    57 ms  gw-telia.retn.net [87.245.255.43]
+  7    83 ms    82 ms    76 ms  s-bb1-link.ip.twelve99.net [62.115.143.24]
+  8    82 ms    83 ms    79 ms  s-b4-link.ip.twelve99.net [62.115.142.57]
+  9    83 ms    80 ms    80 ms  a2-23-141-205.deploy.static.akamaitechnologies.com [2.23.141.205]
